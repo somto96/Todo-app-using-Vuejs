@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>About us</h1>
-    <h1>My first todo app</h1>
+    <p>My first todo app</p>
     <!-- <button class="btn">x</button> -->
   </div>
 
